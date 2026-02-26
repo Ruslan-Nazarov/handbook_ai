@@ -9,6 +9,7 @@ permissions:
 
 jobs:
   deploy-book:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
@@ -17,6 +18,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: Install jupyter-book
         run: pip install jupyter-book
@@ -24,7 +26,7 @@ jobs:
       - name: Build the book
         run: jupyter-book build .
 
-      - name: Copy build to docs
+      - name: Prepare docs folder
         run: |
           rm -rf docs
           mkdir docs
