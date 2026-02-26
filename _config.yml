@@ -1,0 +1,9 @@
+title: Handbook Data Science 2025
+author: Руслан Назаров
+execute:
+  execute_notebooks: off
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - dollarmath
+    - html_image

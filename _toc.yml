@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+chapters:
+  - file: 01_history_ai
+  - file: 02_data_prep
+  - file: 03_stats
+  - file: 04_linear_regression
+  - file: 05_logistic_regression
+  - file: 06_clustering
+  - file: 07_neural_networks
