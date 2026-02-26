@@ -11,20 +11,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+
       - name: Install jupyter-book
-        run: pip install -U jupyter-book
+        run: pip install "jupyter-book==0.15.1"
+
       - name: Build
         run: |
-          # Принудительная полная сборка
-          jupyter-book build . --all
-      - name: Check output
-        run: ls -R _build/html  # Проверка наличия файлов перед загрузкой
+          # Очистка и принудительная сборка
+          jupyter-book build .
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./_build/html
+
       - name: Deploy
         uses: actions/deploy-pages@v4
