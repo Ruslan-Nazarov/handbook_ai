@@ -6,4 +6,8 @@ parse:
   myst_enable_extensions:
     - amsmath
     - dollarmath
+
     - html_image
+html:
+  extra_css:
+    - _static/custom.css
