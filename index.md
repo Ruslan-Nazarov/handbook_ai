@@ -1,3 +1,7 @@
+![Build Status](https://github.com/Ruslan-Nazarov/handbook_Languages/actions/workflows/deploy.yml/badge.svg)
+![License](https://img.shields.io/github/license/Ruslan-Nazarov/handbook_Languages)
+[![YouTube](https://img.shields.io/badge/YouTube-@ai__understand-red)](https://www.youtube.com/@ai_understand)
+
 # Понять Искусственный Интеллект
 
 **Автор:** [Руслан Назаров](https://www.youtube.com/@ai_understand)
@@ -46,6 +50,7 @@
 ```{grid-item-card}
 {octicon}`history;1.5em;sd-text-primary` **Исследователям истории**
 Для тех, кому важно понять не только «что» происходит сейчас, но и «как» мы к этому пришли. Мы ищем корни идей, которые сегодня стали нейросетями.
+
 
 
 
