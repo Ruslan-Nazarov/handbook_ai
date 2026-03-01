@@ -12,8 +12,8 @@ html:
   extra_css:
     - _static/custom.css
   google_analytics_id: "G-PLQBBT7CFS"
-  logo: "_static/logo.png"
-  favicon: "_static/logo.png"
+  logo: logo.png
+  favicon: logo.png
   navbar_brand_box_2:          # В некоторых версиях помогает этот блок
     logo_only: true
     
@@ -30,6 +30,7 @@ sphinx:
   config:
     html_theme_options:
       logo_only: true
+
 
 
 
