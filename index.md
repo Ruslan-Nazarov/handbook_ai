@@ -2,6 +2,11 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![YouTube](https://img.shields.io/badge/YouTube-@ai__understand-red)](https://www.youtube.com/@ai_understand)
 
+```{image} logo.png
+:alt: Обложка книги
+:align: center
+:width: 400px
+
 # Понять Искусственный Интеллект
 
 **Автор:** [Руслан Назаров](https://www.youtube.com/@ai_understand)
@@ -53,6 +58,7 @@
 * Вы указываете авторство и даете ссылку на этот репозиторий.
 * Вы не используете материалы в коммерческих целях.
 * Вы не вносите в текст никаких изменений.
+
 
 
 
