@@ -12,6 +12,8 @@ html:
   extra_css:
     - _static/custom.css
   google_analytics_id: "G-PLQBBT7CFS"
+  logo: "_static/logo.png"
+  favicon: "_static/logo.png"
     
 # Настройки автора и копирайта
 author: "Назаров Руслан"
@@ -21,5 +23,6 @@ metadata:
   description: "История ИИ и его базовые концепции через призму диалектического подхода."
   keywords: "Искусственный интеллект, диалектика, Data Science, Руслан Назаров"
   image_path: "_static/logo.png" # Путь к обложке книги
+
 
 
