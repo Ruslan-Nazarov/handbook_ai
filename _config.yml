@@ -11,7 +11,8 @@ parse:
 html:
   extra_css:
     - _static/custom.css
-  google_analytics_id: "G-PLQBBT7CFS"
+  analytics:
+    google_analytics_id: "G-PLQBBT7CFS"
   logo: logo.png
   favicon: logo.png
   navbar_brand_box_2:          # В некоторых версиях помогает этот блок
@@ -30,6 +31,7 @@ sphinx:
   config:
     html_theme_options:
       logo_only: true
+
 
 
 
