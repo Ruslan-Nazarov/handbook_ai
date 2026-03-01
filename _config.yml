@@ -1,4 +1,3 @@
-title: Handbook Data Science 2025
 author: Руслан Назаров
 execute:
   execute_notebooks: off
@@ -26,6 +25,10 @@ metadata:
   keywords: "Искусственный интеллект, диалектика, Data Science, Руслан Назаров"
   image_path: "_static/logo.png" # Путь к обложке книги
 
+sphinx:
+  config:
+    html_theme_options:
+      logo_only: true
 
 
 
