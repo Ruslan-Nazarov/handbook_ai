@@ -14,7 +14,6 @@ html:
   google_analytics_id: "G-PLQBBT7CFS"
   logo: "_static/logo.png"
   favicon: "_static/logo.png"
-  use_repository_button: true  # Полезно для связи с GitHub
   navbar_brand_box_2:          # В некоторых версиях помогает этот блок
     logo_only: true
     
@@ -26,6 +25,7 @@ metadata:
   description: "История ИИ и его базовые концепции через призму диалектического подхода."
   keywords: "Искусственный интеллект, диалектика, Data Science, Руслан Назаров"
   image_path: "_static/logo.png" # Путь к обложке книги
+
 
 
 
