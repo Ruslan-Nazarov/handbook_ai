@@ -36,7 +36,7 @@
 
 ---
 
-**Видео с разбором книги на Youtube:** [(Книга "Понять Искусственный Интеллект")](https://www.youtube.com/playlist?list=PLcw81HMAarVKYDJ8ym44Cx8UEDeG08DNU)
+**Видео с разбором книги на Youtube:** [Книга "Понять Искусственный Интеллект"](https://www.youtube.com/playlist?list=PLcw81HMAarVKYDJ8ym44Cx8UEDeG08DNU)
 
 
 
