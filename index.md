@@ -3,6 +3,7 @@
 :align: center
 :width: 200px
 ```
+---
 
 [![Обновлено](https://img.shields.io/github/last-commit/Ruslan-Nazarov/handbook_ai?label=Версия%20от&color=blue)](https://github.com/Ruslan-Nazarov/handbook_ai/commits/main)
 [![YouTube](https://img.shields.io/badge/YouTube-@ai__understand-red)](https://www.youtube.com/@ai_understand)
@@ -60,6 +61,7 @@
 * Вы указываете авторство и даете ссылку на этот репозиторий.
 * Вы не используете материалы в коммерческих целях.
 * Вы не вносите в текст никаких изменений.
+
 
 
 
