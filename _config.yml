@@ -1,4 +1,4 @@
-title: Понять Искусственный Интеллект
+title: О книге
 author: Руслан Назаров
 execute:
   execute_notebooks: off
@@ -31,6 +31,7 @@ sphinx:
   config:
     html_theme_options:
       logo_only: true
+
 
 
 
