@@ -1,5 +1,4 @@
 [![Обновлено](https://img.shields.io/github/last-commit/Ruslan-Nazarov/handbook_ai?label=Версия%20от&color=blue)](https://github.com/Ruslan-Nazarov/handbook_ai/commits/main)
-![Build Status](https://github.com/Ruslan-Nazarov/handbook_Languages/actions/workflows/deploy.yml/badge.svg)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![YouTube](https://img.shields.io/badge/YouTube-@ai__understand-red)](https://www.youtube.com/@ai_understand)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
@@ -62,6 +61,7 @@
 * Вы указываете авторство и даете ссылку на этот репозиторий.
 * Вы не используете материалы в коммерческих целях.
 * Вы не вносите в текст никаких изменений.
+
 
 
 
