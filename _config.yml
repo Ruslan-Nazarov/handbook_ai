@@ -19,7 +19,6 @@ html:
     - _static/custom.css
   navbar_brand_box_2:
     logo_only: false           # ВАЖНО: false, чтобы текст "О книге" появился
-  google_analytics_id: "G-N6VRMC654R"
 
 metadata:
   description: "История ИИ и его базовые концепции через призму диалектического подхода."
@@ -30,6 +29,10 @@ sphinx:
   config:
     html_theme_options:
       logo_only: false         # ВАЖНО: здесь тоже должно быть false
+    html_js_files:
+      - ["https://www.googletagmanager.com/gtag/js?id=G-N6VRMC654R", {"async": "async"}]
+      - "ga.js"
+
 
 
 
