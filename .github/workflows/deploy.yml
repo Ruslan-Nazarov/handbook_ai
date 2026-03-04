@@ -23,6 +23,7 @@ jobs:
       - name: Build
         run: |
           # Очистка и принудительная сборка
+          jupyter-book clean .
           jupyter-book build .
 
       - name: Upload artifact
