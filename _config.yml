@@ -15,8 +15,6 @@ html:
   home_page_in_toc: true       # Включает подразделы index.md в меню
   logo: "logo.png"
   favicon: "logo.png"
-  analytics:
-    google_analytics_id: "G-N6VRMC654R"
   extra_css:
     - _static/custom.css
   navbar_brand_box_2:
@@ -41,6 +39,7 @@ sphinx:
   config:
     html_theme_options:
       logo_only: false         # ВАЖНО: здесь тоже должно быть false
+
 
 
 
