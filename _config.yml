@@ -19,7 +19,6 @@ html:
     - _static/custom.css
   navbar_brand_box_2:
     logo_only: false           # ВАЖНО: false, чтобы текст "О книге" появился
-  html:
   extra_footer: |
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-N6VRMC654R"></script>
@@ -39,6 +38,8 @@ sphinx:
   config:
     html_theme_options:
       logo_only: false         # ВАЖНО: здесь тоже должно быть false
+    google_analytics_id: "G-N6VRMC654R"
+
 
 
 
