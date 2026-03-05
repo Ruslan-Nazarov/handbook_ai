@@ -33,7 +33,8 @@ sphinx:
       - ["https://www.googletagmanager.com/gtag/js?id=G-N6VRMC654R", {"async": "async"}]
       - "ga.js"
     metatags:
-      google-site-verification: "<meta name="google-site-verification" content="DODJ9ibUZdaZmmppxxQ_KV7qNrrikODMkNKsHuEClpI" />"
+      google-site-verification: "DODJ9ibUZdaZmmppxxQ_KV7qNrrikODMkNKsHuEClpI"
+
 
 
 
