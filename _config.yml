@@ -35,9 +35,10 @@ sphinx:
     html_extra_path: ["google3eee9c11b8197c7f.html", "yandex_64f199e3e08207c6.html"]
     extra_extensions:
       - sphinx_sitemap
-    html_baseurl: "https://ruslan-nazarov.github.io/handbook_Languages/"
+    html_baseurl: "https://ruslan-nazarov.github.io/handbook_ai/"
     sitemap_url_scheme: "{link}"
     
+
 
 
 
