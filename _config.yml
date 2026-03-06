@@ -28,7 +28,7 @@ metadata:
 sphinx:
   config:
     html_theme_options:
-      logo_only: false         # ВАЖНО: здесь тоже должно быть false
+      logo_only: false
     html_js_files:
       - ["https://www.googletagmanager.com/gtag/js?id=G-N6VRMC654R", {"async": "async"}]
       - "ga.js"
@@ -38,6 +38,7 @@ sphinx:
   extra_extensions:
     - sphinx_sitemap
     
+
 
 
 
