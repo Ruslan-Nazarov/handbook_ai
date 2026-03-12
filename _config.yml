@@ -32,12 +32,14 @@ sphinx:
     html_js_files:
       - ["https://www.googletagmanager.com/gtag/js?id=G-N6VRMC654R", {"async": "async"}]
       - "ga.js"
+      - "metrika.js"
     html_extra_path: ["google3eee9c11b8197c7f.html", "yandex_64f199e3e08207c6.html"]
     html_baseurl: "https://ruslan-nazarov.github.io/handbook_ai/"
     sitemap_url_scheme: "{link}"
   extra_extensions:
     - sphinx_sitemap
     
+
 
 
 
