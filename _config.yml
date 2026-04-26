@@ -1,4 +1,4 @@
-title: Понять Искусственный Интеллект
+title: Handbook Data Science 2025
 author: Руслан Назаров
 execute:
   execute_notebooks: off
@@ -7,17 +7,4 @@ parse:
     - amsmath
     - dollarmath
     - html_image
-  myst_settings:
-    myst_dmath_double_inline: true
-    myst_dmath_allow_space: true
-    myst_update_mathjax: true
-
-sphinx:
-  config:
-    mathjax3_config:
-      tex:
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-        displayMath: [['$$', '$$'], ['\\[', '\\]']]
-        processEscapes: true
-        processEnvironments: true
-
+    - colon_fence
