@@ -1,4 +1,4 @@
-![Build Status](https://github.com/Ruslan-Nazarov/handbook_Languages/actions/workflows/deploy.yml/badge.svg)
+![Build Status](https://github.com/Ruslan-Nazarov/handbook_ai/actions/workflows/deploy.yml/badge.svg)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![YouTube](https://img.shields.io/badge/YouTube-@ai__understand-red)](https://www.youtube.com/@ai_understand)
 
