@@ -1,64 +1,11 @@
-title: "О книге"
-author: "Назаров Руслан"
-copyright: "2026"
-
+title: Handbook Data Science 2025
+author: Руслан Назаров
 execute:
   execute_notebooks: off
-
 parse:
   myst_enable_extensions:
     - amsmath
     - dollarmath
     - html_image
-
-html:
-  home_page_in_toc: true       # Включает подразделы index.md в меню
-  logo: "logo.png"
-  favicon: "logo.png"
-  extra_css:
-    - _static/custom.css
-  navbar_brand_box_2:
-    logo_only: false           # ВАЖНО: false, чтобы текст "О книге" появился
-
-metadata:
-  description: "История ИИ и его базовые концепции через призму диалектического подхода."
-  keywords: "Искусственный интеллект, диалектика, Data Science, Руслан Назаров"
-  image_path: "logo.png"
-
-sphinx:
-  config:
-    html_theme_options:
-      logo_only: false
-    html_js_files:
-      - ["https://www.googletagmanager.com/gtag/js?id=G-N6VRMC654R", {"async": "async"}]
-      - "ga.js"
-      - "metrika.js"
-    html_extra_path: ["google3eee9c11b8197c7f.html", "yandex_64f199e3e08207c6.html"]
-    html_baseurl: "https://ruslan-nazarov.github.io/handbook_ai/"
-    sitemap_url_scheme: "{link}"
-  extra_extensions:
-    - sphinx_sitemap
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  myst_settings:
+    myst_dmath_double_inline: true
